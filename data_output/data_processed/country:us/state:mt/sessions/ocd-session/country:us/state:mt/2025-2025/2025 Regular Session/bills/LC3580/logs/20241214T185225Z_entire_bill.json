@@ -1,0 +1,63 @@
+{
+  "legislative_session": "2025",
+  "identifier": "LC3580",
+  "title": "Generally revise legislative branch laws",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Legislature"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "(LC) Drafter Assigned",
+      "date": "2024-12-14T18:52:25+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "(LC) Draft On Hold",
+      "date": "2024-12-14T18:52:25+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "(LC) Draft Died in Process",
+      "date": "2025-05-23T15:42:02+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://bills.legmt.gov/#/lc/bill/2/LC3580",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "bill_draft_number": "LC3580",
+    "by_request_of": "Brad Barker"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mt/government",
+    "name": "Montana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mt"
+  },
+  "scraped_at": "2025-07-28T19:39:16+00:00",
+  "_id": "8b385cf6-6bea-11f0-8459-7628cca8e7a4"
+}
