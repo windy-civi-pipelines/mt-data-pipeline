@@ -1,0 +1,1301 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 252",
+  "title": "Create the student and teacher advancement for results and success act (STARS)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations  (see also: State Finance)",
+    "Labor and Employment  (see also: Unemployment Insurance; Workers' Comp)",
+    "Rule Making",
+    "School Finance",
+    "Schools and Education",
+    "Teachers",
+    "University System (see also:  Colleges)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "(LC) Drafter Assigned",
+      "date": "2024-09-23T12:46:37+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(LC) Draft in Legal Review",
+      "date": "2025-01-09T16:33:12+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(LC) Draft in Edit",
+      "date": "2025-01-09T17:19:42+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(LC) Draft in Input/Proofing",
+      "date": "2025-01-15T16:54:52+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(LC) Draft in Final Drafter Review",
+      "date": "2025-01-15T23:13:53+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(LC) Draft in Assembly",
+      "date": "2025-01-16T15:48:54+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(LC) Draft Ready for Delivery",
+      "date": "2025-01-16T16:11:03+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(LC) Draft Delivered to Requester",
+      "date": "2025-01-16T18:31:27+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Introduced",
+      "date": "2025-01-17T20:10:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Fiscal Note Requested",
+      "date": "2025-01-17T20:19:20+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Referred to Committee - (H) Education",
+      "date": "2025-01-20T17:21:04+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) First Reading",
+      "date": "2025-01-20T20:18:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Hearing Canceled - (H) Education",
+      "date": "2025-01-22T15:45:45+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Hearing - (H) Education",
+      "date": "2025-01-22T18:42:43+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Fiscal Note Received",
+      "date": "2025-02-04T15:29:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Fiscal Note Signed",
+      "date": "2025-02-04T20:08:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Fiscal Note Printed",
+      "date": "2025-02-05T16:53:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Committee Executive Action--Bill Passed as Amended - (H) Education",
+      "date": "2025-02-06T00:32:47+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Committee Executive Action--Bill Passed as Amended - (H) Education",
+      "date": "2025-02-06T01:26:46+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Revised Fiscal Note Requested",
+      "date": "2025-02-06T17:25:20+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Committee Report--Bill Passed as Amended - (H) Education",
+      "date": "2025-02-06T20:33:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) 2nd Reading Passed",
+      "date": "2025-02-10T21:08:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Revised Fiscal Note Received",
+      "date": "2025-02-10T21:44:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Revised Fiscal Note Signed",
+      "date": "2025-02-10T21:53:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Rereferred to Committee - (H) Appropriations",
+      "date": "2025-02-10T22:07:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Hearing - (H) Appropriations",
+      "date": "2025-02-10T23:03:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Revised Fiscal Note Printed",
+      "date": "2025-02-10T23:31:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Committee Executive Action--Bill Passed as Amended - (H) Appropriations",
+      "date": "2025-02-17T22:56:46+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Committee Report--Bill Passed as Amended - (H) Appropriations",
+      "date": "2025-02-18T20:08:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Scheduled for 2nd Reading",
+      "date": "2025-02-21T20:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) 2nd Reading Passed",
+      "date": "2025-02-21T20:50:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Scheduled for 3rd Reading",
+      "date": "2025-02-22T16:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) 3rd Reading Passed",
+      "date": "2025-02-22T19:04:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Transmitted to Senate",
+      "date": "2025-02-24T21:51:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(S) First Reading",
+      "date": "2025-02-25T20:42:26+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(S) Referred to Committee - (S) Education and Cultural Resources",
+      "date": "2025-03-04T00:46:34+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(S) Hearing - (S) Education and Cultural Resources",
+      "date": "2025-03-17T19:48:42+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(S) Committee Executive Action--Bill Concurred - (S) Education and Cultural Resources",
+      "date": "2025-04-03T22:16:08+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(S) Committee Report--Bill Concurred - (S) Education and Cultural Resources",
+      "date": "2025-04-04T02:43:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(S) Scheduled for 2nd Reading",
+      "date": "2025-04-15T19:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(S) 2nd Reading Concurred",
+      "date": "2025-04-15T19:31:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(S) Rereferred to Committee - (S) Finance and Claims",
+      "date": "2025-04-15T21:44:30+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(S) Hearing - (S) Finance and Claims",
+      "date": "2025-04-17T16:24:49+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(S) Committee Executive Action--Bill Concurred - (S) Finance and Claims",
+      "date": "2025-04-18T14:47:59+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(S) Committee Report--Bill Concurred - (S) Finance and Claims",
+      "date": "2025-04-18T20:03:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(S) Scheduled for 3rd Reading",
+      "date": "2025-04-22T18:30:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(S) 3rd Reading Concurred",
+      "date": "2025-04-22T21:17:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Sent to Enrolling",
+      "date": "2025-04-22T21:17:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Returned from Enrolling",
+      "date": "2025-04-27T16:22:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Signed by Speaker",
+      "date": "2025-05-01T19:00:49+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(S) Signed by President",
+      "date": "2025-05-02T16:00:24+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Transmitted to Governor",
+      "date": "2025-05-05T16:05:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "(H) Signed by Governor",
+      "date": "2025-05-08T17:11:09+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    },
+    {
+      "description": "Chapter Number Assigned",
+      "date": "2025-05-13T21:52:44+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:55Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Llew Jones",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Llew Jones\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "LC 262",
+      "legislative_session": "2025",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "HB0252_1(1).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=272741",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_1(2).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=275366",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_1(3).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=276415",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_1(4).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=279640",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_1(5).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=279641",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_1(6).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=279642",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_1(7).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=279643",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_1.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=272384",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_2(1).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=279645",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_2(10).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=283928",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_2(11).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=283929",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_2(2).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=279647",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_2(3).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=279650",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_2(4).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=279670",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_2(5).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=279674",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_2(6).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=279675",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_2(7).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=279756",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_2(8).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=283926",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_2(9).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=283927",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_2.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=279644",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_3(1).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=283931",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_3(10).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=315022",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_3(11).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=315026",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_3(2).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=283932",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_3(3).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=283933",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_3(4).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=283948",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_3(5).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=283956",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_3(6).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=283957",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_3(7).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=283958",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_3(8).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=286744",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_3(9).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=304312",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_3.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=283930",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_X(1).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=315045",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_X(10).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=322386",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_X(11).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=322387",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_X(12).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=324857",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_X(13).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=325704",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_X(14).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=327290",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_X(2).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=317229",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_X(3).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=318099",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_X(4).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=318100",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_X(5).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=318101",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_X(6).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=318169",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_X(7).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=318170",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_X(8).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=320937",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_X(9).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=322385",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252_X.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=315027",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252.001.001_Amendments-in-Context_final-condensed.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=278228",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252.001.001_Amendments-in-Context_final-full.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=278229",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252.001.002_Amendments-in-Context_final-condensed.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=279133",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252.001.002_Amendments-in-Context_final-full(1).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=280828",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252.001.002_Amendments-in-Context_final-full.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=279037",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252.002.001_Amendments-in-Context_final-condensed.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=280862",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0252.002.001_Amendments-in-Context_final-full.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=280861",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "LC0262.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=271740",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB0252_1.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=278813",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Note: HB0252_2.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=280589",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Montanta Chapter Laws",
+      "citation": "2025 Chapter 482, HB 252",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://bills.legmt.gov/#/laws/bill/2/LC0262?open_tab=sum",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "bill_draft_number": "LC0262",
+    "by_request_of": "Bruce \"Butch\" Gillespie"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mt/government",
+    "name": "Montana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mt"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T04:20:55Z"
+  }
+}

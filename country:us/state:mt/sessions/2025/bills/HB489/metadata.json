@@ -1,0 +1,398 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 489",
+  "title": "Revise sales tax laws to provide for local option tax",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appropriations  (see also: State Finance)",
+    "Local Finance  (see also: City Finance; County Finance)",
+    "Local Government  (see also: City Subjects; County Subjects)",
+    "Revenue, Local",
+    "Revenue, State",
+    "Rule Making",
+    "Taxation (Generally)",
+    "Taxation--Property",
+    "Taxation--Sales"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "(LC) Drafter Assigned",
+      "date": "2024-11-11T16:34:41+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(LC) Draft in Legal Review",
+      "date": "2025-01-31T19:57:47+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(LC) Draft in Edit",
+      "date": "2025-02-01T03:44:25+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(LC) Draft in Input/Proofing",
+      "date": "2025-02-04T20:11:51+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(LC) Draft in Final Drafter Review",
+      "date": "2025-02-04T23:54:57+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(LC) Draft in Assembly",
+      "date": "2025-02-05T12:59:53+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(LC) Draft Ready for Delivery",
+      "date": "2025-02-05T15:26:24+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(LC) Draft Delivered to Requester",
+      "date": "2025-02-11T16:56:28+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(H) Introduced",
+      "date": "2025-02-13T14:47:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(H) Fiscal Note Requested",
+      "date": "2025-02-13T14:52:07+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(H) Referred to Committee - (H) Taxation",
+      "date": "2025-02-13T18:01:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(H) First Reading",
+      "date": "2025-02-13T19:41:47+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(H) Hearing - (H) Taxation",
+      "date": "2025-02-14T15:17:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(H) Hearing Canceled - (H) Taxation",
+      "date": "2025-02-14T21:13:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(H) Rereferred to Committee - (H) Local Government",
+      "date": "2025-02-14T21:19:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(H) Hearing - (H) Local Government",
+      "date": "2025-02-17T19:04:27+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(H) Fiscal Note Received",
+      "date": "2025-02-22T16:14:44+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(H) Fiscal Note Signed",
+      "date": "2025-02-22T19:20:49+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(H) Fiscal Note Printed",
+      "date": "2025-02-24T17:18:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(H) Tabled in Committee - (H) Local Government",
+      "date": "2025-03-25T23:20:30+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-deferral"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(H) Missed Deadline for Revenue Bill Transmittal",
+      "date": "2025-04-07T17:00:08+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    },
+    {
+      "description": "(H) Died in Process",
+      "date": "2025-05-20T17:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Greg Oblander",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Greg Oblander\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "LC 1051",
+      "legislative_session": "2025",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "HB0489_1(1).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=282071",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0489_1(2).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=323512",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0489_1(3).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=326139",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0489_1(4).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=327499",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0489_1.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=281817",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0489.001.001_Amendments-in-Context_final-condensed.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=298191",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0489.001.001_Amendments-in-Context_final-full.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=298190",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "LC1051.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=278914",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB0489_1.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=286350",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://bills.legmt.gov/#/laws/bill/2/LC1051?open_tab=sum",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "bill_draft_number": "LC1051",
+    "by_request_of": "Tom France"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mt/government",
+    "name": "Montana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mt"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T04:20:43Z"
+  }
+}

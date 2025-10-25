@@ -1,0 +1,75 @@
+{
+  "legislative_session": "2025",
+  "identifier": "LC2870",
+  "title": "Allow the state of Montana to address wildfires on federal lands",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Federal Government",
+    "Fires and Fire Protection",
+    "State Government"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "(LC) Drafter Assigned",
+      "date": "2024-12-12T14:00:11+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:50Z"
+      }
+    },
+    {
+      "description": "(LC) Draft On Hold",
+      "date": "2024-12-12T14:00:12+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:50Z"
+      }
+    },
+    {
+      "description": "(LC) Draft Died in Process",
+      "date": "2025-05-27T20:47:55+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:50Z"
+      }
+    }
+  ],
+  "sponsorships": [],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://bills.legmt.gov/#/lc/bill/2/LC2870",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "bill_draft_number": "LC2870",
+    "by_request_of": "Steve Gist"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mt/government",
+    "name": "Montana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mt"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T04:20:50Z"
+  }
+}

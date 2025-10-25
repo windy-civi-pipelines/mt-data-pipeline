@@ -1,0 +1,344 @@
+{
+  "legislative_session": "2025",
+  "identifier": "HB 23",
+  "title": "Move spring enrollment count date one week earlier",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "School Finance",
+    "Schools and Education"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "(LC) Drafter Assigned",
+      "date": "2024-09-23T13:09:43+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(LC) Draft in Legal Review",
+      "date": "2024-10-03T20:15:36+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(LC) Draft in Edit",
+      "date": "2024-10-07T20:02:58+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(LC) Draft in Input/Proofing",
+      "date": "2024-10-24T23:11:21+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(LC) Draft in Final Drafter Review",
+      "date": "2024-11-10T17:01:43+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(LC) Draft in Assembly",
+      "date": "2024-11-15T22:29:40+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(LC) Draft Ready for Delivery",
+      "date": "2024-11-19T00:16:22+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(LC) Draft Delivered to Requester",
+      "date": "2024-12-06T21:48:09+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(H) Introduced",
+      "date": "2024-12-06T21:50:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(H) Fiscal Note Requested",
+      "date": "2024-12-18T20:46:42+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(H) Referred to Committee - (H) Education",
+      "date": "2024-12-20T22:11:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(H) Hearing - (H) Education",
+      "date": "2024-12-30T19:23:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(H) First Reading",
+      "date": "2025-01-06T17:26:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(H) Fiscal Note Received",
+      "date": "2025-01-07T15:16:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(H) Fiscal Note Signed",
+      "date": "2025-01-08T20:20:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(H) Hearing Canceled - (H) Education",
+      "date": "2025-01-08T20:38:56+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(H) Fiscal Note Printed",
+      "date": "2025-01-09T15:34:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    },
+    {
+      "description": "(H) Bill Withdrawn per House Rule H30-50(3)(b)",
+      "date": "2025-02-20T14:09:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T04:20:45Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Melissa Romano",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Melissa Romano\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "LC 287",
+      "legislative_session": "2025",
+      "relation_type": "replaces"
+    }
+  ],
+  "versions": [
+    {
+      "note": "HB0023_1(1).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=267403",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0023_1(2).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=275071",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0023_1(3).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=276145",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0023_1(4).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=323331",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0023_1(5).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=325733",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0023_1(6).pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=327302",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB0023_1.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=267210",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "LC0287.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=265320",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Fiscal Note: HB0023_1.pdf",
+      "links": [
+        {
+          "url": "https://api.legmt.gov/docs/v1/documents/getContent?documentId=270198",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://bills.legmt.gov/#/laws/bill/2/LC0287?open_tab=sum",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "bill_draft_number": "LC0287",
+    "by_request_of": "Education Interim Committee"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mt/government",
+    "name": "Montana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mt"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T04:20:45Z"
+  }
+}
