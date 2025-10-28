@@ -495,18 +495,6 @@
       }
     },
     {
-      "description": "Chapter Number Assigned",
-      "date": "2025-02-27T18:17:30+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [
-        "became-law"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-10-25T04:20:57Z"
-      }
-    },
-    {
       "description": "(H) Signed by Governor",
       "date": "2025-02-27T22:36:52+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -1129,7 +1117,7 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T04:20:57Z",
+    "logs_latest_update": "2025-10-28T03:33:32Z",
     "text_extraction_latest_update": "2025-10-26T10:26:47.775822Z"
   }
 }

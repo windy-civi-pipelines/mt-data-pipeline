@@ -396,18 +396,6 @@
     },
     {
       "description": "Chapter Number Assigned",
-      "date": "2025-02-27T16:46:31+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [
-        "became-law"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-10-25T04:20:50Z"
-      }
-    },
-    {
-      "description": "Chapter Number Assigned",
       "date": "2025-02-28T19:05:09+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [
@@ -752,7 +740,7 @@
     "division_id": "ocd-division/country:us/state:mt"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T04:20:50Z",
+    "logs_latest_update": "2025-10-28T03:33:32Z",
     "text_extraction_latest_update": "2025-10-27T13:00:44.785755Z"
   }
 }
